@@ -1,4 +1,4 @@
-### AI Chatbot Application
+## AI Chatbot Application
 
 This project is an AI-powered chatbot application built using **Spring Boot** and **WebFlux** for the backend, and **React** with **Bootstrap** for the frontend.
 
