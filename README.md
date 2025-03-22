@@ -18,7 +18,7 @@ This project is an AI-powered chatbot application built using **Spring Boot** an
 ### Frontend
 - React
 - Bootstrap
-- JavaScript/TypeScript
+- JavaScript
 
 ## Installation
 ### Prerequisites
